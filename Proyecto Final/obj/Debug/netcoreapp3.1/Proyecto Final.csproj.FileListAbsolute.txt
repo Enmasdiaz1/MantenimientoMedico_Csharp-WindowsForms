@@ -1,0 +1,112 @@
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmAgregarUsuario - Copia.resources
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmAgregarUsuario.resources
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmCitas.resources
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmInicio.resources
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmLogin.resources
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmMedicos.resources
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmPacientes - Copia (2).resources
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmPacientes - Copia - Copia.resources
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmPacientes - Copia.resources
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmPacientes.resources
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmPruebasLaboratorio.resources
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmResultadosLaboratorio.resources
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmUsuario.resources
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.Properties.Resources.resources
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmUsuario - Copia.cs.resources
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmUsuario.cs.resources
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto Final.AssemblyInfoInputs.cache
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto Final.AssemblyInfo.cs
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\bin\Debug\netcoreapp3.1\Proyecto Final.exe
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\bin\Debug\netcoreapp3.1\Proyecto Final.deps.json
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\bin\Debug\netcoreapp3.1\Proyecto Final.runtimeconfig.json
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\bin\Debug\netcoreapp3.1\Proyecto Final.runtimeconfig.dev.json
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\bin\Debug\netcoreapp3.1\Proyecto Final.dll
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\bin\Debug\netcoreapp3.1\Proyecto Final.pdb
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\bin\Debug\netcoreapp3.1\cs\Proyecto Final.resources.dll
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmAgregarMedico.resources
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmAgregarUsuario - Copia - Copia.resources
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\cs\Proyecto Final.resources.dll
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto Final.dll
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto Final.pdb
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto Final.genruntimeconfig.cache
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmAgregarPrueba.resources
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmAgregarMedico - Copia.resources
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmAgregarPaciente.resources
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmAgregarCita.resources
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmAgregarCitaFINAL.resources
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmAgregarCitaMedico.resources
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmAgregarUsuario - Copia - Copia (2).resources
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmAgregarUsuario - Copia - Copia - Copia.resources
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\bin\Debug\netcoreapp3.1\Proyecto Final.dll.config
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\bin\Debug\netcoreapp3.1\Correo.dll
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\bin\Debug\netcoreapp3.1\Datos.dll
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\bin\Debug\netcoreapp3.1\Correo.pdb
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\bin\Debug\netcoreapp3.1\Logica.dll
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\bin\Debug\netcoreapp3.1\Logica.pdb
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto Final.dll
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto Final.pdb
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\bin\Debug\netcoreapp3.1\Proyecto Final.exe
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\bin\Debug\netcoreapp3.1\Proyecto Final.dll.config
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\bin\Debug\netcoreapp3.1\Proyecto Final.deps.json
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\bin\Debug\netcoreapp3.1\Proyecto Final.runtimeconfig.json
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\bin\Debug\netcoreapp3.1\Proyecto Final.runtimeconfig.dev.json
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\bin\Debug\netcoreapp3.1\Proyecto Final.dll
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\bin\Debug\netcoreapp3.1\Proyecto Final.pdb
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\bin\Debug\netcoreapp3.1\cs\Proyecto Final.resources.dll
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\bin\Debug\netcoreapp3.1\Correo.dll
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\bin\Debug\netcoreapp3.1\Datos.dll
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\bin\Debug\netcoreapp3.1\Logica.dll
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\bin\Debug\netcoreapp3.1\Correo.pdb
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\bin\Debug\netcoreapp3.1\Logica.pdb
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmAgregarCita.resources
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmAgregarCitaFINAL.resources
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmAgregarCitaMedico.resources
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmAgregarMedico - Copia.resources
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmAgregarMedico.resources
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmAgregarPaciente.resources
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmAgregarPrueba.resources
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmAgregarUsuario - Copia - Copia (2).resources
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmAgregarUsuario - Copia - Copia - Copia.resources
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmAgregarUsuario - Copia - Copia.resources
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmAgregarUsuario - Copia.resources
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmAgregarUsuario.resources
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmCitas.resources
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmInicio.resources
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmLogin.resources
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmMedicos.resources
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmPacientes - Copia (2).resources
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmPacientes - Copia - Copia.resources
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmPacientes - Copia.resources
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmPacientes.resources
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmPruebasLaboratorio.resources
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmResultadosLaboratorio.resources
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmUsuario.resources
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.Properties.Resources.resources
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmUsuario - Copia.cs.resources
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto_Final.FrmUsuario.cs.resources
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto Final.AssemblyInfoInputs.cache
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto Final.AssemblyInfo.cs
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\cs\Proyecto Final.resources.dll
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto Final.csproj.CopyComplete
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Proyecto Final\obj\Debug\netcoreapp3.1\Proyecto Final.genruntimeconfig.cache

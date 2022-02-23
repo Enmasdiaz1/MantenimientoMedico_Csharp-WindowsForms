@@ -1,0 +1,43 @@
+C:\Users\rafae\source\repos\Proyecto Final\Logica\obj\Debug\netcoreapp3.1\Logica.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\Proyecto Final\Logica\obj\Debug\netcoreapp3.1\Logica.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\Proyecto Final\Logica\obj\Debug\netcoreapp3.1\Logica.AssemblyInfo.cs
+C:\Users\rafae\source\repos\Proyecto Final\Logica\obj\Debug\netcoreapp3.1\Logica.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Proyecto Final\Logica\bin\Debug\netcoreapp3.1\Logica.deps.json
+C:\Users\rafae\source\repos\Proyecto Final\Logica\bin\Debug\netcoreapp3.1\Logica.dll
+C:\Users\rafae\source\repos\Proyecto Final\Logica\bin\Debug\netcoreapp3.1\Logica.pdb
+C:\Users\rafae\source\repos\Proyecto Final\Logica\bin\Debug\netcoreapp3.1\Correo.dll
+C:\Users\rafae\source\repos\Proyecto Final\Logica\bin\Debug\netcoreapp3.1\Datos.dll
+C:\Users\rafae\source\repos\Proyecto Final\Logica\bin\Debug\netcoreapp3.1\Correo.pdb
+C:\Users\rafae\source\repos\Proyecto Final\Logica\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\rafae\source\repos\Proyecto Final\Logica\obj\Debug\netcoreapp3.1\Logica.csproj.CopyComplete
+C:\Users\rafae\source\repos\Proyecto Final\Logica\obj\Debug\netcoreapp3.1\Logica.dll
+C:\Users\rafae\source\repos\Proyecto Final\Logica\obj\Debug\netcoreapp3.1\Logica.pdb
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Logica\bin\Debug\netcoreapp3.1\Logica.deps.json
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Logica\bin\Debug\netcoreapp3.1\Logica.dll
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Logica\bin\Debug\netcoreapp3.1\Logica.pdb
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Logica\bin\Debug\netcoreapp3.1\Correo.dll
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Logica\bin\Debug\netcoreapp3.1\Datos.dll
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Logica\bin\Debug\netcoreapp3.1\Correo.pdb
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Logica\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Logica\obj\Debug\netcoreapp3.1\Logica.csproj.AssemblyReference.cache
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Logica\obj\Debug\netcoreapp3.1\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Logica\obj\Debug\netcoreapp3.1\Logica.AssemblyInfoInputs.cache
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Logica\obj\Debug\netcoreapp3.1\Logica.AssemblyInfo.cs
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Logica\obj\Debug\netcoreapp3.1\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Logica\obj\Debug\netcoreapp3.1\Logica.dll
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Logica\obj\Debug\netcoreapp3.1\Logica.pdb
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Logica\obj\Debug\netcoreapp3.1\Logica.csproj.CopyComplete
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Logica\obj\Debug\netcoreapp3.1\Logica.dll
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Logica\obj\Debug\netcoreapp3.1\Logica.pdb
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Logica\bin\Debug\netcoreapp3.1\Logica.deps.json
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Logica\bin\Debug\netcoreapp3.1\Logica.dll
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Logica\bin\Debug\netcoreapp3.1\Logica.pdb
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Logica\bin\Debug\netcoreapp3.1\Correo.dll
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Logica\bin\Debug\netcoreapp3.1\Datos.dll
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Logica\bin\Debug\netcoreapp3.1\Correo.pdb
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Logica\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Logica\obj\Debug\netcoreapp3.1\Logica.csproj.AssemblyReference.cache
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Logica\obj\Debug\netcoreapp3.1\Logica.AssemblyInfoInputs.cache
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Logica\obj\Debug\netcoreapp3.1\Logica.AssemblyInfo.cs
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Logica\obj\Debug\netcoreapp3.1\Logica.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Logica\obj\Debug\netcoreapp3.1\Logica.csproj.CopyComplete
