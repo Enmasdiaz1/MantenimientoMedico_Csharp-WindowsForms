@@ -41,3 +41,18 @@ C:\Users\rafae\Downloads\FinalProject-Pruebas\Logica\obj\Debug\netcoreapp3.1\Log
 C:\Users\rafae\Downloads\FinalProject-Pruebas\Logica\obj\Debug\netcoreapp3.1\Logica.AssemblyInfo.cs
 C:\Users\rafae\Downloads\FinalProject-Pruebas\Logica\obj\Debug\netcoreapp3.1\Logica.csproj.CoreCompileInputs.cache
 C:\Users\rafae\Downloads\FinalProject-Pruebas\Logica\obj\Debug\netcoreapp3.1\Logica.csproj.CopyComplete
+E:\Universidad - Aprendizaje\Universidad\C5\DCU\MantenimientoMedico_Csharp-WindowsForms\Logica\bin\Debug\netcoreapp3.1\Logica.deps.json
+E:\Universidad - Aprendizaje\Universidad\C5\DCU\MantenimientoMedico_Csharp-WindowsForms\Logica\bin\Debug\netcoreapp3.1\Logica.dll
+E:\Universidad - Aprendizaje\Universidad\C5\DCU\MantenimientoMedico_Csharp-WindowsForms\Logica\bin\Debug\netcoreapp3.1\Logica.pdb
+E:\Universidad - Aprendizaje\Universidad\C5\DCU\MantenimientoMedico_Csharp-WindowsForms\Logica\bin\Debug\netcoreapp3.1\Correo.dll
+E:\Universidad - Aprendizaje\Universidad\C5\DCU\MantenimientoMedico_Csharp-WindowsForms\Logica\bin\Debug\netcoreapp3.1\Datos.dll
+E:\Universidad - Aprendizaje\Universidad\C5\DCU\MantenimientoMedico_Csharp-WindowsForms\Logica\bin\Debug\netcoreapp3.1\Correo.pdb
+E:\Universidad - Aprendizaje\Universidad\C5\DCU\MantenimientoMedico_Csharp-WindowsForms\Logica\bin\Debug\netcoreapp3.1\Datos.pdb
+E:\Universidad - Aprendizaje\Universidad\C5\DCU\MantenimientoMedico_Csharp-WindowsForms\Logica\obj\Debug\netcoreapp3.1\Logica.csproj.AssemblyReference.cache
+E:\Universidad - Aprendizaje\Universidad\C5\DCU\MantenimientoMedico_Csharp-WindowsForms\Logica\obj\Debug\netcoreapp3.1\Logica.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad - Aprendizaje\Universidad\C5\DCU\MantenimientoMedico_Csharp-WindowsForms\Logica\obj\Debug\netcoreapp3.1\Logica.AssemblyInfoInputs.cache
+E:\Universidad - Aprendizaje\Universidad\C5\DCU\MantenimientoMedico_Csharp-WindowsForms\Logica\obj\Debug\netcoreapp3.1\Logica.AssemblyInfo.cs
+E:\Universidad - Aprendizaje\Universidad\C5\DCU\MantenimientoMedico_Csharp-WindowsForms\Logica\obj\Debug\netcoreapp3.1\Logica.csproj.CoreCompileInputs.cache
+E:\Universidad - Aprendizaje\Universidad\C5\DCU\MantenimientoMedico_Csharp-WindowsForms\Logica\obj\Debug\netcoreapp3.1\Logica.csproj.CopyComplete
+E:\Universidad - Aprendizaje\Universidad\C5\DCU\MantenimientoMedico_Csharp-WindowsForms\Logica\obj\Debug\netcoreapp3.1\Logica.dll
+E:\Universidad - Aprendizaje\Universidad\C5\DCU\MantenimientoMedico_Csharp-WindowsForms\Logica\obj\Debug\netcoreapp3.1\Logica.pdb

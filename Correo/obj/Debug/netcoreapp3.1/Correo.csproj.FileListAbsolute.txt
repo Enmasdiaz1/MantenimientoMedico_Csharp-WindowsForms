@@ -26,3 +26,13 @@ C:\Users\rafae\Downloads\FinalProject-Pruebas\Correo\obj\Debug\netcoreapp3.1\Cor
 C:\Users\rafae\Downloads\FinalProject-Pruebas\Correo\obj\Debug\netcoreapp3.1\Correo.AssemblyInfo.cs
 C:\Users\rafae\Downloads\FinalProject-Pruebas\Correo\obj\Debug\netcoreapp3.1\Correo.csproj.CoreCompileInputs.cache
 C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Correo\obj\Debug\netcoreapp3.1\Correo.csproj.AssemblyReference.cache
+E:\Universidad - Aprendizaje\Universidad\C5\DCU\MantenimientoMedico_Csharp-WindowsForms\Correo\bin\Debug\netcoreapp3.1\Correo.deps.json
+E:\Universidad - Aprendizaje\Universidad\C5\DCU\MantenimientoMedico_Csharp-WindowsForms\Correo\bin\Debug\netcoreapp3.1\Correo.dll
+E:\Universidad - Aprendizaje\Universidad\C5\DCU\MantenimientoMedico_Csharp-WindowsForms\Correo\bin\Debug\netcoreapp3.1\Correo.pdb
+E:\Universidad - Aprendizaje\Universidad\C5\DCU\MantenimientoMedico_Csharp-WindowsForms\Correo\obj\Debug\netcoreapp3.1\Correo.csproj.AssemblyReference.cache
+E:\Universidad - Aprendizaje\Universidad\C5\DCU\MantenimientoMedico_Csharp-WindowsForms\Correo\obj\Debug\netcoreapp3.1\Correo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad - Aprendizaje\Universidad\C5\DCU\MantenimientoMedico_Csharp-WindowsForms\Correo\obj\Debug\netcoreapp3.1\Correo.AssemblyInfoInputs.cache
+E:\Universidad - Aprendizaje\Universidad\C5\DCU\MantenimientoMedico_Csharp-WindowsForms\Correo\obj\Debug\netcoreapp3.1\Correo.AssemblyInfo.cs
+E:\Universidad - Aprendizaje\Universidad\C5\DCU\MantenimientoMedico_Csharp-WindowsForms\Correo\obj\Debug\netcoreapp3.1\Correo.csproj.CoreCompileInputs.cache
+E:\Universidad - Aprendizaje\Universidad\C5\DCU\MantenimientoMedico_Csharp-WindowsForms\Correo\obj\Debug\netcoreapp3.1\Correo.dll
+E:\Universidad - Aprendizaje\Universidad\C5\DCU\MantenimientoMedico_Csharp-WindowsForms\Correo\obj\Debug\netcoreapp3.1\Correo.pdb

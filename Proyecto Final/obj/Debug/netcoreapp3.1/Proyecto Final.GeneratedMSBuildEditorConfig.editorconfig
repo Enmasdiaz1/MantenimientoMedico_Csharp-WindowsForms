@@ -1,3 +1,9 @@
 is_global = true
+build_property.ApplicationManifest = 
+build_property.StartupObject = 
+build_property.ApplicationDefaultFont = 
+build_property.ApplicationHighDpiMode = 
+build_property.ApplicationUseCompatibleTextRendering = 
+build_property.ApplicationVisualStyles = 
 build_property.RootNamespace = Proyecto_Final
-build_property.ProjectDir = C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Proyecto Final\
+build_property.ProjectDir = E:\Universidad - Aprendizaje\Universidad\C5\DCU\MantenimientoMedico_Csharp-WindowsForms\Proyecto Final\
